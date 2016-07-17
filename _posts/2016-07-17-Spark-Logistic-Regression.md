@@ -25,3 +25,7 @@ int int main(int argc, char const *argv[]) {
   return 0;
 }
 ```
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
